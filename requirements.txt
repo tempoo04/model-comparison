@@ -2,6 +2,7 @@ langchain
 langchain-openai
 langchain-google-genai
 langchain_experimental
+langchain_cohere
 openai
 anthropic
 cohere
